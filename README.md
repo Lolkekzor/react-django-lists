@@ -1,7 +1,3 @@
-### Grading
-Area           | Grade (0-10)
--------------- | ------------
-Implementation |
-Design         |
-Documentation  |
-Total          |
+### React & Django project
+
+A project implementing an API with Django Rest Framework and token based authentication.
